@@ -20,7 +20,7 @@ I build tools, systems, and experimental projects focused on performance and cle
 
 - 🔥 Kerne-Raid
 - 💣 Kerne-Nuke
-- 🛡️ VOTOX
+- 🛡️ [VOTOX](https://github.com/phasedev-oxiodev/VOTOX)
 
 More projects coming soon...
 
