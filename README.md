@@ -46,10 +46,10 @@ Building. Breaking. Fixing. Improving.
 
 ## 📫 Contact
 
-
+```txt
+Email Pro : PhaseDev-Pro@outlook.com
+````
 
 ---
 
 ⭐ Thanks for checking my profile.
-
-```
