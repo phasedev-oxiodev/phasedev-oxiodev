@@ -1,16 +1,56 @@
-## Hi there 👋
+````md
+# 👋 Yo, I'm PhaseDev
 
-<!--
-**phasedev-oxiodev/phasedev-oxiodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Developer • 🚀 Builder • 🔥 Creator
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile.
+I build tools, systems, and experimental projects focused on performance and clean design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+
+- 👨‍💻 Passionate about coding
+- 🛠️ Creating custom tools & automation
+- 🎮 Into game-related development
+- ⚡ Always improving
+
+---
+
+## 🚀 Projects
+
+- 🔥 Kerne-Raid
+- 💣 Kerne-Nuke
+- 🛡️ VOTOX
+
+More projects coming soon...
+
+---
+
+## 🛠 Tech Stack
+
+- JavaScript
+- Node.js
+- Python
+- Discord Bots
+- Web Development
+
+---
+
+## 📊 Status
+
+```txt
+Building. Breaking. Fixing. Improving.
+````
+
+---
+
+## 📫 Contact
+
+
+
+---
+
+⭐ Thanks for checking my profile.
+
+```
